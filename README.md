@@ -1,0 +1,2 @@
+# C_program
+Design, implement and test a C-program that allows the user to generate a text file containing the first Name, job title and phone number Of the selected employee. use an array Of structure that contains full name, job title and phone number. populate the Structure array with 4 different employees. Ask the user for the name Of the employee that he/she Wishes to copy to a text file. Name the text file With the same name Of the employee.
